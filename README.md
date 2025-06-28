@@ -43,12 +43,14 @@ Here are some tools I've crafted with love ❤️
 
 ---
 
-## 💬 Let's Connect
 
-- 🌐 [Portfolio](https://yourportfolio.com)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 📧 [Email](mailto:yourname@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+<details>
+<summary>🔧 Other Cool Tools</summary>
+
+- ⚙️ CLI IP Scanner
+- 🕵️‍♂️ Comment Bot for Social Engagement
+- 📡 MT5 Auto Trading Bridge
+</details>
 
 ---
 
