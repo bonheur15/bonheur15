@@ -3,7 +3,6 @@
 <p align="center">
   A passionate full stack developer who loves building tools that make life easier. Always exploring, always building.
 </p>
----
 
 ## 🚀 Tools I Built
 
