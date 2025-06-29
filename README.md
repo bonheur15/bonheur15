@@ -18,7 +18,7 @@
 | 🧪 **Master DB Studio**         | A self hostable, modern universal DB viewer for Mongo, MySQL, PostgreSQL.                                 | Electron, React, Node.js         | *Beta* [Try Now](https://master-db-studio.vercel.app/)                 |
 | 🌐 **Realsync**                 | Low cost WebSocket service with event scheduling. Easy to integrate.                                      | Node.js, Redis                   | *(SDK Coming Soon)*                                                    |
 | 🎮 **Simple Pokémon Game**      | 2 player game built on Realsync. Pick Pokémon before your opponent to win!                                | React, WebSockets (Realsync)     | [Play Now](https://simple-pokemon-preview.vercel.app/game)             |
-| 🦴 **BootApi**                  | File-based API framework using Fastify & Bun. Supports middleware, caching, CLI scaffolding.              | TypeScript, Fastify, Bun         | [Docs](https://github.com/bonheur-15/boot-api) *(In Progress)*          |
+| 🦴 **BootApi**                  | File-based API framework using Fastify & Bun. Supports middleware, caching, CLI scaffolding.              | TypeScript, Fastify, Bun         | [Docs](https://github.com/bonheur15/boot-api) *(In Progress)*          |
 
 > *“Alpha stage are stable but not tested.”*
 > > *“Beta stage are stable and tested but full not full tested”*
