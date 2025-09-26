@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Bonheur 👋</h1>
 
 <p align="center">
-  A full-stack developer focused on building practical tools and solutions. I enjoy exploring new technologies and bringing ideas to life through code.
+  A full stack developer focused on building practical tools and solutions. I enjoy exploring new technologies and bringing ideas to life through code.
 </p>
 
 ---
@@ -41,7 +41,7 @@ A collection of beautiful, functional, and extendable React components built on 
 | ----------------------- | ------------------------------------------------------------------------------------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------- |
 | **LoadWarp** | Dynamic DNS and health monitoring via Cloudflare Workers for service discovery and simple load balancing. | `Internal Tool`            | `Private Repository`                                                                              |
 | **Go DB Manager** | A REST API server for managing MySQL, PostgreSQL, and MongoDB databases with a simple interface.          | `Stable`                   | [Repo](https://github.com/bonheur15/go-db-manager)                                                  |
-| **Master DB Studio** | A modern, self-hostable, universal database viewer for Mongo, MySQL, and PostgreSQL.                    | `Beta`                     | [Try Now](https://master-db-studio.vercel.app/)                                                   |
+| **Master DB Studio** | A modern, self hostable, universal database viewer for Mongo, MySQL, and PostgreSQL.                    | `Beta`                     | [Try Now](https://master-db-studio.vercel.app/)                                                   |
 | **Image Optimizer** | Free online tool for compressing & optimizing images without significant quality loss.                  | `Live`                     | [Try Now](https://image-munch.hubfiy.space/)                                                      |
 | **RegionalNext** | Test your API response times from different locations across the globe. Fast, free, and easy to use.    | `Alpha`                    | [Try Now](https://regionalnext.vercel.app/)                                                       |
 | **Tempr JS (v2)** | A modern, configurable, and fast template engine for JavaScript (~4KB gzipped).                         | `Alpha`                    | [Repo](https://github.com/bonheur15/TemprJs)                                                      |
@@ -53,7 +53,7 @@ A collection of beautiful, functional, and extendable React components built on 
 
 | Project                 | Summary                                                                                                | Tech Stack                         | Links                                                                                             |
 | ----------------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------------- | ------------------------------------------------------------------------------------------------- |
-| **Google Photos Replica** | A simplified, minimalist alternative to Google Photos for storing and sharing images quickly and easily. | `In Development`                   | [Preview](https://google-photos-replica.vercel.app/library)                                       |
+| **Google Photos Replica** | A simplified, minimalist alternative to Google Photos for storing and sharing images quickly and easily. | `In Development`                   | [Preview](https://google-photos-replica.vercel.app/)                                       |
 | **Backtrack** | A backend analytics platform designed to track API usage, performance, and user behavior.                | TypeScript, Fastify, Drizzle ORM   | `Private Repository`                                                                              |
 
 ---
