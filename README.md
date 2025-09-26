@@ -13,12 +13,13 @@ Here are some of the projects I've worked on.
 ### [MyDBPortal](https://mydbportal.com/)
 A feature-rich, scalable, and affordable platform to manage, migrate, and host databases anywhere. This project is live and has received positive feedback from its users.
 * **Status**: `Live / Ready for Market`
+* **Tech**: Mongo, Postgres, Mysql, Nextjs
 * **Links**: [Website](https://mydbportal.com/)
 
 ### [Real-sync](https://real-sync.vercel.app/)
 A public WebSocket service designed to make real-time communication simple. Connect, send, and receive events instantly with no complex configuration.
 * **Status**: `Open for Testers`
-* **Tech**: Node.js, Redis
+* **Tech**: Node.js, Redis, Socket.io, FCM
 * **Links**: [Website](https://real-sync.vercel.app/)
 
 ### [boot-api](https://www.npmjs.com/package/boot-api)
@@ -30,8 +31,8 @@ A lightweight, file-based API framework built on Fastify for Bun. It offers a st
 ### [Fuse UI](https://github.com/bonheur15/fuse-ui)
 A collection of beautiful, functional, and extendable React components built on top of shadcn/ui.
 * **Status**: `Open for Contributions`
-* **Tech**: React, shadcn/ui, Tailwind CSS
-* **Links**: [Repo](https://github.com/bonheur15/fuse-ui)
+* **Tech**: Nextjs, shadcn/ui, Tailwind CSS
+* **Links**: [Repo](https://github.com/bonheur15/fuse-ui), [Webite](https://fuse-ui.vercel.app)
 
 ---
 
