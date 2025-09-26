@@ -57,6 +57,11 @@ A collection of beautiful, functional, and extendable React components built on 
 | **Google Photos Replica** | A simplified, minimalist alternative to Google Photos for storing and sharing images quickly and easily. | `In Development`                   | [Preview](https://google-photos-replica.vercel.app/)                                       |
 | **Backtrack** | A backend analytics platform designed to track API usage, performance, and user behavior.                | TypeScript, Fastify, Drizzle ORM   | `Private Repository`                                                                              |
 
+> *“Alpha stage are stable but not tested.”*
+> > *“Beta stage are stable and tested but full not full tested”*
+> > > > *“Full tested are ready for general use but doesnt mean its ready for the market”*
+---
+
 ---
 
 ## Tech Stack
