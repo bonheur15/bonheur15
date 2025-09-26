@@ -1,30 +1,64 @@
-<h1 align="center">Hey there, I'm Bonheur 👋</h1>
+<h1 align="center">Hey, I'm Bonheur 👋</h1>
 
 <p align="center">
-  A passionate full stack developer who loves building tools that make life easier. Always exploring, always building.
+  A full-stack developer focused on building practical tools and solutions. I enjoy exploring new technologies and bringing ideas to life through code.
 </p>
 
-##  Tools I Built
-
-| Tool                            | Summary                                                                                                   | Tech Stack                       | Links                                                                  |
-| ------------------------------- | --------------------------------------------------------------------------------------------------------- | -------------------------------- | ---------------------------------------------------------------------- |
-|  **Tempr JS (v2)**             | Modern, configurable & super fast template engine for JS. <br>\~4KB gzipped. Express ready, API friendly. | JavaScript                       | *Alpha* [Repo](https://github.com/bonheur15/TemprJs)                   |
-|  **Fuse UI**                  | Beautiful, functional, and extendable React components built on shadcn/ui.                                | React, shadcn/ui, Tailwind CSS   | [Repo](https://github.com/bonheur15/fuse-ui) *(Open for Contrubution)* |
-|  **Go DB Manager**           | REST API server to manage MySQL, PostgreSQL, and MongoDB easily.                                          | Go                               | [Repo](https://github.com/bonheur15/go-db-manager) *(Full Tested)*     |
-|  **Backtrack**                | A backend analytics platform to track API usage & behavior.                                               | TypeScript, Fastify, Drizzle ORM | In Development                                                         |
-|  **Image Optimization Tool** | Free online tool for compressing & optimizing images without quality loss.                                | JavaScript, Node.js              | [Try Now](https://image-munch.hubfiy.space/)                                                   |
-|  **RegionalNext**             | Test your API speed across the globe. Fast, free, and super easy to use.                                  | TypeScript, Node.js              | *Alpha* [Try Now](https://regionalnext.vercel.app/)                    |
-|  **Master DB Studio**         | A self hostable, modern universal DB viewer for Mongo, MySQL, PostgreSQL.                                 | Electron, React, Node.js         | *Beta* [Try Now](https://master-db-studio.vercel.app/)                 |
-|  **Realsync**                 | Low cost WebSocket service with event scheduling. Easy to integrate.                                      | Node.js, Redis                   | *(SDK Coming Soon)*                                                    |
-| 🎮 **Simple Pokémon Game**      | 2 player game built on Realsync. Pick Pokémon before your opponent to win!                                | React, WebSockets (Realsync)     | [Play Now](https://simple-pokemon-preview.vercel.app/game)             |
-|  **BootApi**                  | File-based API framework using Fastify & Bun. Supports middleware, caching, CLI scaffolding.              | TypeScript, Fastify, Bun         | [Docs](https://github.com/bonheur15/boot-api) *(In Progress)*          |
-
-> *“Alpha stage are stable but not tested.”*
-> > *“Beta stage are stable and tested but full not full tested”*
-> > > > *“Full tested are ready for general use but doesnt mean its ready for the market”*
 ---
 
-##  Tech Stack
+## Featured Projects
+
+Here are some of the projects I've worked on.
+
+### [MyDBPortal](https://mydbportal.com/)
+A feature-rich, scalable, and affordable platform to manage, migrate, and host databases anywhere. This project is live and has received positive feedback from its users.
+* **Status**: `Live / Ready for Market`
+* **Links**: [Website](https://mydbportal.com/)
+
+### [Real-sync](https://real-sync.vercel.app/)
+A public WebSocket service designed to make real-time communication simple. Connect, send, and receive events instantly with no complex configuration.
+* **Status**: `Open for Testers`
+* **Tech**: Node.js, Redis
+* **Links**: [Website](https://real-sync.vercel.app/)
+
+### [boot-api](https://www.npmjs.com/package/boot-api)
+A lightweight, file-based API framework built on Fastify for Bun. It offers a structure similar to Next.js for APIs, but with more built-in features like automatic middleware loading, route-specific configuration, and caching.
+* **Status**: `Stable` - Please [report any issues](https://github.com/bonheur15/boot-api/issues) on the GitHub repository.
+* **Tech**: TypeScript, Fastify, Bun
+* **Links**: [NPM](https://www.npmjs.com/package/boot-api) | [Repo](https://github.com/bonheur15/boot-api)
+
+### [Fuse UI](https://github.com/bonheur15/fuse-ui)
+A collection of beautiful, functional, and extendable React components built on top of shadcn/ui.
+* **Status**: `Open for Contributions`
+* **Tech**: React, shadcn/ui, Tailwind CSS
+* **Links**: [Repo](https://github.com/bonheur15/fuse-ui)
+
+---
+
+## Other Tools & Services
+
+| Project                 | Summary                                                                                                 | Status                     | Links                                                                                             |
+| ----------------------- | ------------------------------------------------------------------------------------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------- |
+| **LoadWarp** | Dynamic DNS and health monitoring via Cloudflare Workers for service discovery and simple load balancing. | `Internal Tool`            | `Private Repository`                                                                              |
+| **Go DB Manager** | A REST API server for managing MySQL, PostgreSQL, and MongoDB databases with a simple interface.          | `Stable`                   | [Repo](https://github.com/bonheur15/go-db-manager)                                                  |
+| **Master DB Studio** | A modern, self-hostable, universal database viewer for Mongo, MySQL, and PostgreSQL.                    | `Beta`                     | [Try Now](https://master-db-studio.vercel.app/)                                                   |
+| **Image Optimizer** | Free online tool for compressing & optimizing images without significant quality loss.                  | `Live`                     | [Try Now](https://image-munch.hubfiy.space/)                                                      |
+| **RegionalNext** | Test your API response times from different locations across the globe. Fast, free, and easy to use.    | `Alpha`                    | [Try Now](https://regionalnext.vercel.app/)                                                       |
+| **Tempr JS (v2)** | A modern, configurable, and fast template engine for JavaScript (~4KB gzipped).                         | `Alpha`                    | [Repo](https://github.com/bonheur15/TemprJs)                                                      |
+| **Simple Pokémon Game** | A two-player game built on Real-sync to demonstrate real-time WebSocket capabilities.                   | `Live Demo`                | [Play Now](https://simple-pokemon-preview.vercel.app/game)                                        |
+
+---
+
+## In Development
+
+| Project                 | Summary                                                                                                | Tech Stack                         | Links                                                                                             |
+| ----------------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------------- | ------------------------------------------------------------------------------------------------- |
+| **Google Photos Replica** | A simplified, minimalist alternative to Google Photos for storing and sharing images quickly and easily. | `In Development`                   | [Preview](https://google-photos-replica.vercel.app/library)                                       |
+| **Backtrack** | A backend analytics platform designed to track API usage, performance, and user behavior.                | TypeScript, Fastify, Drizzle ORM   | `Private Repository`                                                                              |
+
+---
+
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
@@ -37,16 +71,11 @@
 
 ---
 
-
 <details>
-<summary> Other Cool Tools</summary>
+<summary>Other Experiments</summary>
 
--  CLI IP Scanner
--  Comment Bot for Social Engagement
--  MT5 Auto Trading Bridge
+* CLI IP Scanner
+* Social Media Engagement Bot
+* MT5 Auto Trading Bridge
+
 </details>
-
----
-
-> *“Stay curious, build boldly.”*
-
