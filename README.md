@@ -27,6 +27,7 @@ A lightweight, file-based API framework built on Fastify for Bun. It offers a st
 * **Status**: `Stable` - Please [report any issues](https://github.com/bonheur15/boot-api/issues) on the GitHub repository.
 * **Tech**: TypeScript, Fastify, Bun
 * **Links**: [NPM](https://www.npmjs.com/package/boot-api) | [Repo](https://github.com/bonheur15/boot-api)
+* Extra [Website](https://boot-api.hubfiy.space/) Made with emberjs
 
 ### [Fuse UI](https://github.com/bonheur15/fuse-ui)
 A collection of beautiful, functional, and extendable React components built on top of shadcn/ui.
