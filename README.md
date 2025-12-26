@@ -8,7 +8,7 @@
 
 ## Featured Projects
 
-Here are some of the projects I've worked on. also visit my cloud hosting plaftom am activily working on hubfly.space
+Here are some of the projects I've worked on. also visit my cloud hosting plaftom am activily working on [hubfly.space](https://hubfly.space)
 
 ### [MyDBPortal](https://mydbportal.com/)
 A feature-rich, scalable, and affordable platform to manage, migrate, and host databases anywhere. This project is live and has received positive feedback from its users.
