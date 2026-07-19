@@ -8,9 +8,9 @@ I build lightweight cloud tools, developer platforms, and infrastructure product
 
 ## Projects
 
-* **[Hubfly Space](https://hubfly.space)** — A simple cloud platform for deploying and managing applications.
-* **MyDBPortal** — A lightweight interface for connecting to and managing databases.
-* **[HubCDN](https://cdn.hubcdn.space)** — Fast and simple content delivery infrastructure.
+* **[Hubfly Space](https://hubfly.space)** — A cloud platform for deploying and managing applications.
+* **[MyDBPortal](https://mydbportal.com)** — Host and manage database at scale.
+* **[HubCDN](https://cdn.hubcdn.space)** — Opensource CDN.
 
 ## Focus
 
